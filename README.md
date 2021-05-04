@@ -5,5 +5,4 @@ notifications after a pre-defined interval set by the user; It also provides an 
 of graphs depicting covid statistics and Vaccine progress !! All notifications automatically get stored at the Action
 Centre and can be viewed from there at any point of time !! and moreover if the internet connection goes off , then it 
 provides an error message ; and as soon as the connection is restored , all the notifications and graph depict updated
-values !! Note : In all the places where icon paths are provided , the icons are also provided with this project , and 
-also any other icon can be used in there place ( in that case only the icon path needed to be changed :))
+values !!
