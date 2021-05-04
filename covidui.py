@@ -1,7 +1,7 @@
 '''
 -------------------------------------------------------------------------------
                             TRACKORONA GRAPHS  (LEVEL 3)
-BY : Vishal Das ( CSE 2)  , Harshit Sharma ( CSE 3 ) , Gumutch Mishra ( CSE 1 )
+                BY : Vishal Das , Harshit Sharma  ,  Gumutch Mishra 
 -------------------------------------------------------------------------------
 '''
 from plyer import notification
