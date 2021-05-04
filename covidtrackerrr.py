@@ -1,7 +1,7 @@
 '''
 -------------------------------------------------------------------------------
                             TRACKORONA (LEVEL 2)
-BY : Vishal Das ( CSE 2)  , HARSHIT SHARMA.. ( CSE 3 ) , Gumutch Mishra ( CSE 1 )
+            BY : Vishal Das  , HARSHIT SHARMA , Gumutch Mishra 
 -------------------------------------------------------------------------------
 '''
 
